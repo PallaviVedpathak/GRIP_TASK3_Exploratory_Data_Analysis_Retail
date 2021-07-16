@@ -13,6 +13,6 @@ Links:
 
 a.Youtube:
 
-b.Github:
+b.Github: https://github.com/PallaviVedpathak/GRIP_TASK3_Exploratory_Data_Analysis_Retail
 
 c.Dataset: https://bit.ly/3i4rbWl
